@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    bacground-color: #1e1e1e;
+    font-family: 'Inter' 'Arial' sans-serif;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.content-section {
+    weight: 360px;
+    height: 100px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.content-section_theme_dark {
+    background-color: 131313;
+    color:
+}
+
+.content-section_theme_bright {
+    background-color:
+    color: 131313;
+}
